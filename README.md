@@ -47,13 +47,13 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
-
-
-### Tony Miller
 ### Jake Mallory
+### Tony Miller
 ### Barry Porch
-
 ### Kato Hernandez
 ### Rhiannon Stanford
+### Lakendria McCullough
 ### Alexandre Steinhauslin
+
+
 
