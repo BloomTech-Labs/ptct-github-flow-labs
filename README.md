@@ -48,10 +48,12 @@ The following is a list of steps and instructions on how to complete this guided
 ### Bernie Durfee
 
 
-### Alexandre Steinhauslin
 
 ### Tony Miller
 ### Jake Mallory
 ### Barry Porch
+
+### Kato Hernandez
 ### Rhiannon Stanford
+### Alexandre Steinhauslin
 
