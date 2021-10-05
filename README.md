@@ -47,16 +47,13 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
-<<<<<<< HEAD
-
-=======
-
-### Alexandre Steinhauslin
-
-### Tony Miller
 ### Jake Mallory
+### Tony Miller
 ### Barry Porch
+### Kato Hernandez
 ### Rhiannon Stanford
 ### Lakendria McCullough
+### Alexandre Steinhauslin
 
->>>>>>> f605bea793f025b0b96ccaf31f532f22457801a3
+
+
